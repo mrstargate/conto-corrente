@@ -1,0 +1,13 @@
+C:\Users\signo_1\OneDrive\Desktop\Scuola\ContoCorrente.4j\ContoCorrente.4j\bin\Debug\ContoCorrente.4j.exe.config
+C:\Users\signo_1\OneDrive\Desktop\Scuola\ContoCorrente.4j\ContoCorrente.4j\bin\Debug\ContoCorrente.4j.exe
+C:\Users\signo_1\OneDrive\Desktop\Scuola\ContoCorrente.4j\ContoCorrente.4j\bin\Debug\ContoCorrente.4j.pdb
+C:\Users\signo_1\OneDrive\Desktop\Scuola\ContoCorrente.4j\ContoCorrente.4j\obj\Debug\ContoCorrente.4j.csprojAssemblyReference.cache
+C:\Users\signo_1\OneDrive\Desktop\Scuola\ContoCorrente.4j\ContoCorrente.4j\obj\Debug\ContoCorrente.4j.csproj.CoreCompileInputs.cache
+C:\Users\signo_1\OneDrive\Desktop\Scuola\ContoCorrente.4j\ContoCorrente.4j\obj\Debug\ContoCorrente.4j.exe
+C:\Users\signo_1\OneDrive\Desktop\Scuola\ContoCorrente.4j\ContoCorrente.4j\obj\Debug\ContoCorrente.4j.pdb
+C:\Users\lucap\Desktop\ContoCorrente.4j\ContoCorrente.4j\obj\Debug\ContoCorrente.4j.csprojAssemblyReference.cache
+C:\Users\lucap\Desktop\ContoCorrente.4j\ContoCorrente.4j\obj\Debug\ContoCorrente.4j.exe
+C:\Users\lucap\Desktop\ContoCorrente.4j\ContoCorrente.4j\obj\Debug\ContoCorrente.4j.pdb
+C:\Users\lucap\Desktop\ContoCorrente.4j\ContoCorrente.4j\bin\Debug\ContoCorrente.4j.exe.config
+C:\Users\lucap\Desktop\ContoCorrente.4j\ContoCorrente.4j\bin\Debug\ContoCorrente.4j.exe
+C:\Users\lucap\Desktop\ContoCorrente.4j\ContoCorrente.4j\bin\Debug\ContoCorrente.4j.pdb
